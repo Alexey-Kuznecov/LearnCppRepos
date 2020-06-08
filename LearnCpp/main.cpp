@@ -45,11 +45,11 @@ void GetDirectoryFiles()
    std::cout << "Total: " << count << endl;
 }
 
-int Main()
+int main()
 {
    //watcher::GetDirectoryFiles();
-   ParseJson parseJson;
-   parseJson.InterapOverElements();
+   // ParseJson parseJson;
+   // parseJson.InterapOverElements();
    
    return 0;
 }

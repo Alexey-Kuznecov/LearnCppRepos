@@ -80,7 +80,7 @@ public:
             rapidjson::Writer<rapidjson::StringBuffer> writer( sb );
             itr->value.Accept(writer);
 
-            std::cout << sb[0].GetString();
+            std::cout << sb.GetString();
         }
     }
 

@@ -1,6 +1,0 @@
-Привет
-C++
-World
-from
-VS Code
-and the C++ extension!
